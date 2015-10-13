@@ -3,3 +3,5 @@ startup_message off
 hardstatus on
 hardstatus alwayslastline
 hardstatus string "%{.bW}%-w%{.rW}%n %t%{-}%+w %=%{..G} %{= bW} %H | %Y-%m-%d %c"
+
+defscrollback 30000
